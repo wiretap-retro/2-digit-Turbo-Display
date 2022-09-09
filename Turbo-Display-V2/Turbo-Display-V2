@@ -1,0 +1,12 @@
+Reference, Quantity, Value, Footprint, Datasheet, Description, Height, Manufacturer_Name, Manufacturer_Part_Number, Mouser Part Number, Mouser Price/Stock
+C1 C2 ,2,"0.1uF","Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder","~"
+C3 ,1,"0.1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
+DS1_LSB1 DS2_MSB1 ,2,"TDSG5150-N","TDSG5150N","https://componentsearchengine.com//TDSG5150-N.pdf","LED Displays & Accessories 7-Seg Green 13 mm Common anode","7.1","Vishay","TDSG5150-N","78-TDSG5150-N","https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TDSG5150-N/?qs=1F7whG1WZO0LHftAq3z3nA%3D%3D"
+J1 ,1,"+5V","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+J2 ,1,"TLED_IN","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+J3 ,1,"TLED_OUT","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+R1 ,1,"10k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
+R2 ,1,"470","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~"
+RN1 RN2 ,2,"4816P-T01-471LF","SOIC127P762X240-16N","https://componentsearchengine.com/Datasheets/1/4816P-T01-471LF.pdf","Res Thick Film NET 470 Ohm 2% 1.28W +/-100ppm/C ISOL Molded 16-Pin SOM Gull Wing SMD Automotive Tube","2.4","Bourns","4816P-T01-471LF","652-4816P-T1LF-470","https://www.mouser.com/Search/Refine.aspx?Keyword=652-4816P-T1LF-470"
+U1 ,1,"ATtiny85","Package_DIP:DIP-8_W7.62mm","http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf"
+U2 U3 ,2,"SN74HC595DR","SamacSys_Parts:SOIC127P600X175-16N","http://www.ti.com/lit/ds/symlink/sn74hc595.pdf"
