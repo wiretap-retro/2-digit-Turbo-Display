@@ -5,6 +5,8 @@ This project is a ATTiny85-based turbo display for retro PC's. It displays 2 dig
 
 ## Intro
 I was wanting to do an ATTiny85 project and came up with a small 2-digit turbo display for use in my Intel 486 retro gaming PC. This design is pretty simple, easy to build and easy to program. If you have a dead turbo display or your case is missing one, this might be the right fit, as I have tested it on 3 different cases I have and it fits perfect into all of them. Mounting holes are different in nearly every case, so another mounting method may be necessary depending on your situation.
+<br />
+Demo Video: https://youtu.be/Jka8PfParP4
 
 ## Building
 * Order the PCB through your PCB fab of choice. (JLCPCB, PCBway, OSH Park, etc.)
