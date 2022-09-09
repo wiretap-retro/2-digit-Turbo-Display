@@ -21,7 +21,7 @@ I have included the turbo.ino file as an example. In the main program loop, you 
 * As noted in the intro section, this was designed to fit in the Baby-AT cases I have. It seems there was no standard back in the day for making these turbo displays or mounting them, so each case can be different. The digit size fits all mine that have 2-digit display holes, and at least one mounting hole fits on two of the cases. Only one screw is really necessary anyway since it is so small and light. You can secure it in your case with various methods. (tape, blu tack, 3d printed clip, etc.)
 * Once mounted in the case, connect the 5V power to a Berg/Molex-->2x2.54mm header. 
 * Connect the Turbo LED on your case to the TLED OUT pins.
-* Use a female to female 2x2.54mm cable to connect the motherboard's Turbo LED pins to the turbo display board's TLED IN. 
+* Use a female to female cable with 2x2.54mm connectors at each end to connect the motherboard's Turbo LED pins to the turbo display board's TLED IN. These are commonly found on Aliexpress, Amazon, and Ebay for use in Arduino/RPi projects.
 * The turbo switch on your case should be connected to the computer's motherboard Turbo Switch pins.
 * Turn on the PC and test it out!
 
